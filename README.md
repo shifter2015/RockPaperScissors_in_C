@@ -12,4 +12,4 @@ Just a simple rock paper scissors game written in C.
 2. Download the version corresponding to your system
 3. Run!
 # Bugs
-### If you find any bugs please report them to me!
+### If you find any bugs please report them to me [here](https://github.com/shifter2015/RockPaperScissors_in_C/issues)!
