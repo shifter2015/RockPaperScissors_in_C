@@ -5,8 +5,8 @@ Just a simple rock paper scissors game written in C.
 # Installation
 ### Building from source (Linux)
 1. Clone and enter the repository
-  - Clone with `git clone https://github.com/shifter2015/RockPaperScissors_in_C.git`
-  - Enter directory with `gcc main.c -o RockPaperScissors.ELF`
+    - Clone with `git clone https://github.com/shifter2015/RockPaperScissors_in_C.git`
+    - Enter directory with `gcc main.c -o RockPaperScissors.ELF`
 5. Type `gcc main.c -o RockPaperScissors.ELF`
 6. Give execute permissions to executable with `chmod +x RockPaperScissors.ELF`
 7. Launch the executable with `./RockPaperScissors.ELF`
