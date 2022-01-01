@@ -11,7 +11,7 @@ Just a simple rock paper scissors game written in C.
 6. Give execute permissions to executable with `chmod +x RockPaperScissors.ELF`
 7. Launch the executable with `./RockPaperScissors.ELF`
 8. You're done!
-### Download the release!
+### Download the release (Linux, Windows)!
 1. Navigate to the [releases page](https://github.com/shifter2015/RockPaperScissors_in_C/releases)
 2. Download the version corresponding to your system
 3. Run!
